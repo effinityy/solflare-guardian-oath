@@ -3,6 +3,7 @@ The Guardian’s Oath
 An interactive onboarding framework for aspiring Guardians of the Solflare Empire.
 
 Overview
+
 The Guardian’s Oath is a community-led initiative designed to formalize the onboarding journey for new Solflare community members. It moves beyond passive participation by guiding aspirants through a structured path of discovery, contribution, and identity verification.
 
 The Mission
