@@ -7,18 +7,24 @@ Overview
 The Guardian’s Oath is a community-led initiative designed to formalize the onboarding journey for new Solflare community members. It moves beyond passive participation by guiding aspirants through a structured path of discovery, contribution, and identity verification.
 
 The Mission
+
 Solflare is built around autonomy, security, and true ownership. This project was built to surface people who can represent that mission—bringing real value, communicating clearly, and standing out through action.
 
 Core Features
+
 Guardian Profile: Profiles aspirants by strengths and intent .
 
 Empire Quests: A 5-stage challenge designed to surface high-signal contributors by evaluating Value, Edge, Representation, First-Move Strategy, and Personal Commitment.
 
-Credential Card Generation: Upon completion, the platform generates a personalized, verifiable “Aspiring Guardian Credential Card.”
+Credential Card Generation: 
 
-Proof of Identity: Serves as a digital badge within the ecosystem.
+Upon completion, the platform generates a personalized, verifiable “Aspiring Guardian Credential Card.”
 
-Growth Mechanic: Designed for high-impact social media sharing, turning every new Guardian into a word-of-mouth marketing asset for the Empire.
+Proof of Identity: 
+Serves as a digital badge within the ecosystem.
+
+Growth Mechanic: 
+Designed for high-impact social media sharing, turning every new Guardian into a word-of-mouth marketing asset for the Empire.
 
 Built With
 Core: HTML5, CSS3, JavaScript.
